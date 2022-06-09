@@ -3,7 +3,7 @@
 ### ⚡ Mi nombre es Geraldine Martinez
 
 Sobre mi:
--  Estudinte de Programacion.
+-  Estudiante de Programacion.
 -  En busca de trabajo.
 -  Mi linkedin: (https://www.linkedin.com/in/martinez-geraldine/)
 
