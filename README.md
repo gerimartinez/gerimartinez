@@ -7,4 +7,4 @@ Sobre mi:
 -  En busca de trabajo.
 -  Mi linkedin: (https://www.linkedin.com/in/martinez-geraldine/)
 
-###  🚀 Mira mi portfolio para saber mas sobre mi (https://geraldinemartinez05.wixsite.com/my-site)
+###  🚀 Mira mi portfolio para saber mas sobre mi (https://geraldinemartinez.netlify.app/)
